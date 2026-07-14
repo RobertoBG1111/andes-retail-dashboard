@@ -19,6 +19,8 @@ Cada vista sigue el framework narrativo **SCQA** (Situación → Complicación �
 
 ## Vista Overview
 
+![Vista Overview](screenshots/overview.png)
+
 **KPIs:** Ingresos totales ($5.53M), Rentabilidad (35.10%), Pedidos totales (5,000), Ticket promedio ($1,106)
 
 **Visuales:** línea comparativa mensual (2024 vs 2025), ingresos por categoría, país y segmento de cliente.
@@ -38,6 +40,8 @@ Cada vista sigue el framework narrativo **SCQA** (Situación → Complicación �
 ---
 
 ## Vista Detalle
+
+![Vista Detalle](screenshots/detalle.png)
 
 **Visuales:**
 - Ingresos por temporada (Año como leyenda) — expone la caída concentrada en Verano.
